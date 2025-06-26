@@ -1,16 +1,17 @@
-# perfume_app
+# Perfume App
 
-A new Flutter project.
+A Flutter-based mobile application for browsing perfumes, featuring a responsive UI with a fading carousel, brands, categories, and product listings. Built based on a provided Figma design and API specifications.
 
-## Getting Started
+## Requirements
+- **Flutter SDK**: 3.32.0 
+- **Dart**: 3.8.0
+- **Tools**: Android Studio, VS Code, or any IDE with Flutter support
+- **Operating System**: Windows (tested on Windows 10)
+- **Internet Connection**: Required for API calls
+- **Emulator/Device**: Android or iOS emulator/device for testing
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/mithunprem99/perfume_app.git
+   cd perfume-app
